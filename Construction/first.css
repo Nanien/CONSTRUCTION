@@ -1,0 +1,17 @@
+.carousel-inner h1 {
+    padding-top:20%;
+    padding-bottom:20%;
+}
+.carousel-caption{
+    position: absolute;
+    top:15%;
+    right: 60%;
+    border-radius: 10Px;
+    box-shadow: 10px;
+    background-color:rgba(0,0,0,0.3);
+    height:520px; 
+}
+a
+{
+    text-decoration: none;
+}

@@ -1,0 +1,13 @@
+body
+{
+    font-family: arial serif sans-serif;
+    margin: 70px 0px;
+    background-image: url('images/0.jpg');
+}
+
+#form
+{
+	background: #fff;
+	padding: 40px;
+	border-radius: 10px;
+}

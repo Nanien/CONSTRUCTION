@@ -1,0 +1,22 @@
+.jumbotron
+{
+	margin-bottom: 0px;
+}
+
+.carousel-inner h1 {
+    padding-top:20%;
+    padding-bottom:20%;
+}
+.carousel-caption{
+    /*position: absolute;*/
+    top:15%;
+    right: 20%;
+    border-radius: 10Px;
+    box-shadow: 15px;
+    background-color:rgba(0,0,0,0.3);
+    
+    height:520px; 
+}
+a{
+    text-decoration: none;
+}

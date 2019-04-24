@@ -1,0 +1,28 @@
+body
+{
+    font-family: arial serif sans-serif;
+    margin: 70px 0px;
+    background-image: url('images/mais.jpg');
+}
+
+h3
+{
+	color: pink;
+}
+
+#form
+{
+	background: rgba(0, 0, 0, 0.8);
+	padding: 40px;
+	border-radius: 10px;
+}
+
+.comments
+{
+	color: red;
+}
+
+.form-group
+{
+	color: #fff;
+}
